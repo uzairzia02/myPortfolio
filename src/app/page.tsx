@@ -14,7 +14,7 @@ export default function Home() {
       <section className="max-w-3xl mx-auto mb-16">
         <h2 className="text-2xl font-semibold text-blue-300 mb-4">About Me</h2>
         <p className="text-gray-300 text-justify ">
-          I'm Uzair Zia, a passionate Frontend Developer and Agentic AI
+          I am Uzair Zia, a passionate Frontend Developer and Agentic AI
           Developer, transitioning from a strong HR background into the world of
           technology. With hands-on experience in tools like React, Next.js,
           TypeScript, and Sanity.io, I bring a unique blend of business acumen
